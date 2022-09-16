@@ -1,6 +1,6 @@
 # t1
-Eduarda Bertiz
-Guilherme de Moraes Machado
+Eduarda Bertiz,
+Guilherme de Moraes Machado, e
 Ricardo Graziato Caso
 Enunciado a ser resolvido:
 
