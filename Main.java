@@ -17,5 +17,6 @@ public class Main{
 
         media = (score1+score2)/2.0;
         System.out.printf("media = %.2f",media);
+	System.out.print("");
     }
 }
