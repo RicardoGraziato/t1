@@ -13,3 +13,7 @@ The input file contains many floating-point numbers​​, positive or negative.
 Output
 When an invalid score is read, you should print the message "nota invalida".
 After the input of two valid scores, the message "media = " must be printed followed by the average of the student. The average must be printed with 2 numbers after the decimal point.
+
+Comando para clonar o repositório em outrá máquina: git clone https://github.com/RicardoGraziato/t1.git
+
+Para executar o projeto basta abri-lo em uma ide.
